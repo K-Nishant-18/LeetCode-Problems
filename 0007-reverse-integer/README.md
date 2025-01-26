@@ -20,8 +20,8 @@
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> x = 120
-<strong>Output:</strong> 21
+<strong>Input:</strong> x = 130
+<strong>Output:</strong> 31
 </pre>
 
 <p>&nbsp;</p>
