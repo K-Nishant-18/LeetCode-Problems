@@ -1,13 +1,3 @@
-
-/*
-We can solve the Two Sum Problem in O(n) using a HashMap. 
-The idea is to store the difference between the target and the 
-current number in the map as we iterate through the array. 
-This allows quick lookup to check if the required number already exists.
-*/
-
-
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
        int[] arr= new int[2];
