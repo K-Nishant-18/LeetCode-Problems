@@ -18,3 +18,23 @@ class Solution {
         return org.equals(rev);
     }
 }
+
+
+//Same but Better written code
+class Solution {
+    public boolean isPalindrome(String s) {
+        String[] words = s.split("[^a-zA-Z0-9]+");
+        StringBuilder sb = new StringBuilder();
+
+        // build cleaned lowercase string
+        for (String word : words) {
+            sb.append(word.toLowerCase());
+        }
+
+        // make a copy before reversing
+        String org = sb.toString();
+        String rev = new StringBuilder(org).reverse().toString();
+
+        return org.equals(rev);
+    }
+}
