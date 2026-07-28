@@ -1,40 +1,35 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String[] words=s.split("[^a-zA-Z0-9]+");
-        StringBuilder sb=new StringBuilder();
-        for(int i=0; i<words.length; i++){
-            words[i]=words[i].toLowerCase();
-            sb.append(words[i]);
-        }
-        //Make copy before reversing
-        String org=sb.toString();
 
-        StringBuilder sb2=new StringBuilder();
-        sb2=sb.reverse();
-        
-        String rev=sb2.toString();
-        
-
-        return org.equals(rev);
-    }
-}
-
-
-//Same but Better written code
-class Solution {
-    public boolean isPalindrome(String s) {
-        String[] words = s.split("[^a-zA-Z0-9]+");
         StringBuilder sb = new StringBuilder();
 
-        // build cleaned lowercase string
-        for (String word : words) {
-            sb.append(word.toLowerCase());
+        // Step 1: Keep only letters and digits, convert to lowercase
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            if (Character.isLetterOrDigit(ch)) {
+                sb.append(Character.toLowerCase(ch));
+            }
         }
 
-        // make a copy before reversing
-        String org = sb.toString();
-        String rev = new StringBuilder(org).reverse().toString();
+        // Step 2: Convert StringBuilder to String
+        String cleaned = sb.toString();
 
-        return org.equals(rev);
+        // Step 3: Compare from both ends
+        int left = 0;
+        int right = cleaned.length() - 1;
+
+        while (left < right) {
+
+            if (cleaned.charAt(left) != cleaned.charAt(right)) {
+                return false;
+            }
+
+            left++;
+            right--;
+        }
+
+        return true;
     }
 }
