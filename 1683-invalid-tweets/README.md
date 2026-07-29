@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50">1683. Invalid Tweets</a></h2><h3>Easy</h3><hr><p>Table: <code>Tweets</code></p>
+<h2><a href="https://leetcode.com/problems/invalid-tweets">1683. Invalid Tweets</a></h2><h3>Easy</h3><hr><p>Table: <code>Tweets</code></p>
 
 <pre>
 +----------------+---------+
