@@ -1,5 +1,34 @@
-# LeetCode-Problems
-This repository serves as a collection of my solutions to various LeetCode Data Structures and Algorithms (DSA) problems.
+<div align="center">
+
+# 🧩 LeetCode Problems
+
+### A growing collection of Data Structures & Algorithms solutions, synced automatically from LeetCode ⚡
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/K-Nishant-18/LeetCode-Problems?color=green&style=flat-square)](https://github.com/K-Nishant-18/LeetCode-Problems/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/K-Nishant-18/LeetCode-Problems?style=flat-square&color=yellow)](https://github.com/K-Nishant-18/LeetCode-Problems/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/K-Nishant-18/LeetCode-Problems?style=flat-square&color=orange)](https://github.com/K-Nishant-18/LeetCode-Problems/network/members)
+[![Auto Synced](https://img.shields.io/badge/synced%20via-Chrome%20Extension-orange?style=flat-square&logo=googlechrome&logoColor=white)](#)
+
+</div>
+
+---
+
+### 📖 About
+
+This repository is my personal log of solved **LeetCode** problems — organized automatically by topic and difficulty every time I submit an accepted solution. Each folder contains the problem statement, my solution file, and notes where relevant.
+
+
+<div align="center">
+
+| 🗂️ Category | 📊 Tracking |
+|:---:|:---:|
+| Array, Two Pointers, Sorting, Math, String, Binary Search, Database | Auto-updated per topic |
+
+</div>
+
+---
+
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -41,8 +70,22 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
-| [0620-not-boring-movies](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
+
+---
+
+
+
+<div align="center">
+
+### 🤝 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-K--Nishant--18-181717?style=for-the-badge&logo=github)](https://github.com/K-Nishant-18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+⭐ **If this repo helps you, consider giving it a star!** ⭐
+
+</div>
