@@ -41,5 +41,6 @@ This repository serves as a collection of my solutions to various LeetCode Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
