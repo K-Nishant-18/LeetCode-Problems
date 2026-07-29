@@ -4,7 +4,7 @@ class Solution {
         int n=nums.length;
         Arrays.sort(nums);
 
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n-2; i++){
             int j=i+1;
             int k=n-1;
             if(i>0 && nums[i]==nums[i-1]){
@@ -21,7 +21,6 @@ class Solution {
                     }
                     j++;
                     k--;
-                    continue;
                 }else if(nums[i]+nums[j]+nums[k]>0){
                     k--;
                 }else if(nums[i]+nums[j]+nums[k]<0){
