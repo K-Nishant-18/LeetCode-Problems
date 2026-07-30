@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT e.name, u.unique_id
+SELECT unique_id, name
 FROM Employees e
-LEFT JOIN EmployeeUNI u
-ON e.id=u.id;
+Left Join EmployeeUNI u
+On e.id=u.id;
