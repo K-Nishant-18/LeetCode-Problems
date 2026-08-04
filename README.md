@@ -71,6 +71,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
@@ -101,6 +102,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
@@ -120,6 +122,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
