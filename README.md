@@ -50,6 +50,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0011-container-with-most-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
@@ -105,6 +106,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
