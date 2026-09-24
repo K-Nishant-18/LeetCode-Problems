@@ -1,7 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        List<String> list1 = new ArrayList(Arrays.asList(s.toCharArray()));
-        List<String> list2 = new ArrayList(Arrays.asList(t.toCharArray()));
+        
         Map<Character, Integer> freq1=new HashMap<>();
         Map<Character, Integer> freq2=new HashMap<>();
 
