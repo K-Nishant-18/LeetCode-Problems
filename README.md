@@ -38,6 +38,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0001-two-sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -106,6 +107,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
