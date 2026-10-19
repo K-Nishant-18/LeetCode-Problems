@@ -1,20 +1,11 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        
-        Map<Character, Integer> freq1=new HashMap<>();
-        Map<Character, Integer> freq2=new HashMap<>();
+        char[] arr1 = s.toCharArray();
+        Arrays.sort(arr1);
 
-        for(char ch:s.toCharArray()){
-            freq1.put(ch, freq1.getOrDefault(ch, 0)+1);
-        }
+        char[] arr2 = t.toCharArray();
+        Arrays.sort(arr2);
 
-         for(char ch:t.toCharArray()){
-            freq2.put(ch, freq2.getOrDefault(ch, 0)+1);
-        }  
-
-        if(freq1.equals(freq2)){
-            return true;
-        }
-        return false;
+        return Arrays.equals(arr1, arr2);
     }
 }
