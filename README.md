@@ -47,6 +47,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -73,6 +74,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -154,6 +157,26 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
