@@ -37,6 +37,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0001-two-sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
@@ -83,6 +84,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
@@ -185,6 +187,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
