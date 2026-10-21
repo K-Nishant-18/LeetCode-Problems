@@ -46,6 +46,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -76,6 +77,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -117,6 +119,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0001-two-sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -165,6 +168,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -177,6 +181,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -198,6 +203,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
