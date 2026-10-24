@@ -72,6 +72,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0283-move-zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0125-valid-palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
