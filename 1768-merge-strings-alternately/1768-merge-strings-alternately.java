@@ -5,8 +5,6 @@ class Solution {
         int j=0;
         int count=0;
 
-        char[] w1=word1.toCharArray();
-        char[] w2=word2.toCharArray();
 
         while(i<word1.length() && j<word2.length()){
             if(count%2==0){
