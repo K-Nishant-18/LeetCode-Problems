@@ -67,6 +67,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -124,6 +125,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0001-two-sum](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
@@ -152,6 +154,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0021-merge-two-sorted-lists](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -220,6 +223,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
