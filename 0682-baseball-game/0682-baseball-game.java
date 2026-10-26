@@ -14,7 +14,7 @@ class Solution {
                 stack.push(temp);
                 stack.push(temp+temp2);
             }else{
-                stack.push(Integer.parseInt(str));;
+                stack.push(Integer.parseInt(str));
             }
         }
         while(!stack.isEmpty()){
