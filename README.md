@@ -55,6 +55,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
