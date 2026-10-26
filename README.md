@@ -145,6 +145,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
