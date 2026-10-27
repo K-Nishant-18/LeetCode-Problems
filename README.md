@@ -56,6 +56,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
