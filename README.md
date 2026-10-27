@@ -91,6 +91,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -139,6 +140,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
 
