@@ -45,6 +45,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
@@ -93,6 +94,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -149,6 +151,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
