@@ -107,6 +107,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3174-clear-digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [3174-clear-digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [3174-clear-digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
