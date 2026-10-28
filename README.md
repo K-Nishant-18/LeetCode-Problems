@@ -43,6 +43,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0041-first-missing-positive](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -144,6 +145,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -202,6 +204,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
