@@ -1,0 +1,46 @@
+name: Update ReviseAll.md
+
+# Rebuilds ReviseAll.md whenever a Revision.md is added, edited, renamed or deleted
+# (also when README.md changes, so difficulty/topic labels stay fresh).
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/Revision.md'
+      - '**/revision.md'
+      - 'README.md'
+      - '.github/scripts/build_reviseall.py'
+  workflow_dispatch:   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write      # needed so the bot can commit ReviseAll.md
+
+# If several syncs land back-to-back, run one build at a time.
+concurrency:
+  group: reviseall
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build ReviseAll.md
+        env:
+          REVISEALL_BRANCH: ${{ github.event.repository.default_branch }}
+        run: python3 .github/scripts/build_reviseall.py
+
+      - name: Commit ReviseAll.md if it changed
+        run: |
+          git add ReviseAll.md
+          if git diff --cached --quiet; then
+            echo "ReviseAll.md unchanged - nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "docs: update ReviseAll.md [skip ci]"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin "HEAD:${{ github.ref_name }}"
