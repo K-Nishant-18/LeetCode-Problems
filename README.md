@@ -61,6 +61,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0283-move-zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +133,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +265,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
