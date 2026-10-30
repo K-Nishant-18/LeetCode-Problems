@@ -37,32 +37,23 @@ SKIP_DIRS = {"node_modules", "venv", "__pycache__"}  # dot-folders are skipped t
 START = "<!---Revision Notes Start-->"
 END = "<!---Revision Notes End-->"
 
-DIFFICULTY_EMOJI = {"Easy": "🟢", "Medium": "🟡", "Hard": "🔴"}
-DIFFICULTY_COLOR = {"Easy": "brightgreen", "Medium": "orange", "Hard": "red"}
-
-TOPIC_EMOJI = {
-    "array": "🧮", "string": "🔤", "linked list": "🔗", "stack": "🥞", "queue": "🚶",
-    "two pointers": "👉", "hash table": "#️⃣", "dynamic programming": "🧠",
-    "recursion": "🔁", "memoization": "📝", "sorting": "📶", "math": "➗",
-    "greedy": "🪙", "heap (priority queue)": "⛰️", "design": "🏗️", "binary search": "🔍",
-    "prefix sum": "➕", "simulation": "🎮", "divide and conquer": "✂️", "counting": "🔢",
-    "monotonic stack": "📈", "database": "🗄️", "trie": "🌿", "bucket sort": "🪣",
-    "quicksort": "⚡", "quickselect": "🎯", "bubble sort": "🫧", "timsort": "⏱️",
-}
+LEVELS = ["Easy", "Medium", "Hard"]
+LEVEL_COLOR = {"Easy": "2ea043", "Medium": "d29922", "Hard": "cf222e"}
+CHIP_LIMIT = 4                                       # topic chips shown per row
 
 DEFAULT_HEADER = """\
 <div align="center">
 
-# 📚 Revise All
+# Revise All
 
-### One page to revise every problem I've solved ✨
+### One page to revise everything I've solved
 
-*Click any **📖 Notes** link to jump straight to that problem's `Revision.md`.*
+<sub>Every problem below links straight to its own `Revision.md`</sub>
 
 <br>
 
-[![Last updated](https://img.shields.io/github/last-commit/__REPO__?path=ReviseAll.md&label=last%20updated&color=7c3aed&style=for-the-badge)](https://github.com/__REPO__/commits/__BRANCH__/ReviseAll.md)
-[![Auto updated](https://img.shields.io/badge/auto%20updated%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/__REPO__/actions)
+[![Last updated](https://img.shields.io/github/last-commit/__REPO__?path=ReviseAll.md&label=last%20updated&color=24292f&style=flat-square)](https://github.com/__REPO__/commits/__BRANCH__/ReviseAll.md)
+[![Auto updated](https://img.shields.io/badge/auto%20updated%20by-GitHub%20Actions-24292f?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/__REPO__/actions)
 
 </div>
 
@@ -76,18 +67,14 @@ DEFAULT_FOOTER = """
 
 <div align="center">
 
-### 🔄 How this page stays fresh
-
-Add a `Revision.md` inside any problem folder → push → this page updates itself.
-Only the section between the `Revision Notes Start/End` markers is regenerated — the header and footer are yours to edit.
+<sub>This page rebuilds itself on every push that adds, edits or removes a <code>Revision.md</code>.<br>
+Only the section between the <code>Revision Notes Start/End</code> markers is generated; the header and footer are yours to edit.</sub>
 
 <br>
 
-### 🤝 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-__OWNER__-181717?style=flat-square&logo=github)](https://github.com/__OWNER__)
 
-[![GitHub](https://img.shields.io/badge/GitHub-__OWNER__-181717?style=for-the-badge&logo=github)](https://github.com/__OWNER__)
-
-⭐ **If this repo helps you, consider giving it a star!** ⭐
+If this repo helps you, consider giving it a star.
 
 </div>
 """
@@ -212,27 +199,21 @@ def build_items(paths: list, meta: dict) -> list:
 # --------------------------------------------------------------------------- #
 # Rendering helpers
 # --------------------------------------------------------------------------- #
-def level(d: str) -> str:
-    return f"{DIFFICULTY_EMOJI.get(d, '')} {d}".strip() if d else "—"
-
-
-def chips(topics: list, limit: int = 4) -> str:
-    """Topic chips; long lists are cut to `limit` plus a '+N' counter."""
+def chips(topics: list) -> str:
+    """Topic chips; long lists are cut to CHIP_LIMIT plus a '+N' counter."""
     if not topics:
         return "—"
-    shown = " ".join(f"`{t}`" for t in topics[:limit])
-    return shown + (f" `+{len(topics) - limit}`" if len(topics) > limit else "")
+    shown = " ".join(f"`{t}`" for t in topics[:CHIP_LIMIT])
+    return shown + (f" `+{len(topics) - CHIP_LIMIT}`" if len(topics) > CHIP_LIMIT else "")
 
 
-def progress_bar(done: int, total: int, width: int = 20) -> str:
-    if total <= 0:
-        return ""
-    filled = round(width * done / total)
-    return f"{'▰' * filled}{'▱' * (width - filled)}  **{round(100 * done / total)}%**"
+def progress_bar(done: int, total: int, width: int = 24) -> str:
+    filled = round(width * done / total) if total else 0
+    return f"`{'█' * filled}{'░' * (width - filled)}`&nbsp; **{round(100 * done / total) if total else 0}%**"
 
 
-def topic_icon(topic: str) -> str:
-    return TOPIC_EMOJI.get(topic.lower(), "🏷️")
+def topic_anchor(topic: str) -> str:
+    return "topic-" + re.sub(r"[^a-z0-9]+", "-", topic.lower()).strip("-")
 
 
 def problem_folders() -> list:
@@ -240,9 +221,8 @@ def problem_folders() -> list:
     return sorted(p.name for p in ROOT.iterdir() if p.is_dir() and re.match(r"^\d+-", p.name))
 
 
-def row(i: dict) -> str:
-    return (f"| {i['number'] or '—'} | [{i['title']}]({i['folder_url']}) | {level(i['difficulty'])} "
-            f"| {chips(i['topics'])} | [📖 Notes]({i['notes_url']}) |")
+def notes_link(i: dict) -> str:
+    return f"[{i['title']}]({i['notes_url']})"
 
 
 # --------------------------------------------------------------------------- #
@@ -253,25 +233,24 @@ def render(items: list) -> str:
     folders = problem_folders()
     covered = {i["slug"] for i in items}
     missing = [f for f in folders if f not in covered]
-    counts = {d: sum(1 for i in items if i["difficulty"] == d) for d in DIFFICULTY_EMOJI}
+    counts = {d: sum(1 for i in items if i["difficulty"] == d) for d in LEVELS}
     done = len(covered & set(folders)) if folders else len(items)
     total = len(folders) if folders else len(items)
 
     # ---- overview --------------------------------------------------------
-    L.append("## 📊 Overview")
+    L.append("## Overview")
     L.append("")
     L.append('<div align="center">')
     L.append("")
-    L.append(
-        f"![Notes](https://img.shields.io/badge/📚%20Revision%20Notes-{len(items)}-7c3aed?style=for-the-badge) "
-        + " ".join(
-            f"![{d}](https://img.shields.io/badge/{d}-{counts[d]}-{DIFFICULTY_COLOR[d]}?style=for-the-badge)"
-            for d in DIFFICULTY_EMOJI
-        )
-    )
+    badges = [f"![Notes](https://img.shields.io/badge/Revision%20notes-{len(items)}-24292f?style=flat-square)"]
+    badges += [
+        f"![{d}](https://img.shields.io/badge/{d}-{counts[d]}-{LEVEL_COLOR[d]}?style=flat-square)"
+        for d in LEVELS
+    ]
+    L.append(" ".join(badges))
     L.append("")
     if folders:
-        L.append(f"**Coverage** — {done} of {total} solved problems have revision notes")
+        L.append(f"<sub>Coverage: {done} of {total} solved problems have revision notes</sub>")
         L.append("")
         L.append(progress_bar(done, total))
         L.append("")
@@ -279,16 +258,17 @@ def render(items: list) -> str:
     L.append("")
 
     if not items:
-        L.append("> _No `Revision.md` files found yet. Add one inside any problem folder and it will appear here._")
+        L.append("> No `Revision.md` files found yet. Add one inside any problem folder and it will appear here.")
         return "\n".join(L)
 
     # ---- all notes -------------------------------------------------------
-    L.append("## 🗂️ All Revision Notes")
+    L.append("## All Revision Notes")
     L.append("")
-    L.append("| # | Problem | Level | Topics | Revise |")
+    L.append("| # | Problem | Level | Topics | Revision |")
     L.append("|:---:|:---|:---:|:---|:---:|")
     for i in items:
-        L.append(row(i))
+        L.append(f"| {i['number'] or '—'} | [{i['title']}]({i['folder_url']}) | {i['difficulty'] or '—'} "
+                 f"| {chips(i['topics'])} | [Open]({i['notes_url']}) |")
     L.append("")
 
     # ---- by topic --------------------------------------------------------
@@ -297,30 +277,44 @@ def render(items: list) -> str:
         for t in i["topics"]:
             by_topic.setdefault(t, []).append(i)
     if by_topic:
-        L.append("## 🏷️ Browse by Topic")
+        order = sorted(by_topic, key=lambda t: (-len(by_topic[t]), t.lower()))
+
+        L.append('<a id="browse-by-topic"></a>')
         L.append("")
-        L.append("> Tap a topic to expand it.")
+        L.append("## Browse by Topic")
         L.append("")
-        for topic in sorted(by_topic, key=lambda t: (-len(by_topic[t]), t.lower())):
+        L.append('<div align="center">')
+        L.append("")
+        L.append(" &nbsp;·&nbsp; ".join(
+            f"[{t}](#{topic_anchor(t)})<sup>{len(by_topic[t])}</sup>" for t in order
+        ))
+        L.append("")
+        L.append("</div>")
+        L.append("")
+        L.append("Each link opens that problem's revision notes.")
+        L.append("")
+
+        for topic in order:
             group = by_topic[topic]
-            L.append("<details>")
-            L.append(f"<summary><b>{topic_icon(topic)} {topic}</b> &nbsp;·&nbsp; {len(group)}</summary>")
+            L.append(f'<a id="{topic_anchor(topic)}"></a>')
             L.append("")
-            L.append("| # | Problem | Level | Revise |")
-            L.append("|:---:|:---|:---:|:---:|")
-            for i in group:
-                L.append(f"| {i['number'] or '—'} | [{i['title']}]({i['folder_url']}) "
-                         f"| {level(i['difficulty'])} | [📖 Notes]({i['notes_url']}) |")
+            L.append(f"### {topic} <sup>{len(group)}</sup>")
             L.append("")
-            L.append("</details>")
+            for level_name in LEVELS + [""]:
+                members = [i for i in group if i["difficulty"] == level_name]
+                if members:
+                    label = level_name or "Other"
+                    L.append(f"- **{label}** &nbsp;—&nbsp; " + " &nbsp;·&nbsp; ".join(notes_link(i) for i in members))
+            L.append("")
+            L.append('<sub><a href="#browse-by-topic">Back to topics</a></sub>')
             L.append("")
 
     # ---- still to write --------------------------------------------------
     if missing:
-        L.append("## ✍️ Still To Write")
+        L.append("## Still To Write")
         L.append("")
         L.append("<details>")
-        L.append(f"<summary><b>Problems without a Revision.md yet</b> &nbsp;·&nbsp; {len(missing)}</summary>")
+        L.append(f"<summary>Problems without a Revision.md yet ({len(missing)})</summary>")
         L.append("")
         cols = 3
         L.append("| " + " | ".join([" "] * cols) + " |")
