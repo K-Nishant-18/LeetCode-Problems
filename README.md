@@ -54,6 +54,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,6 +96,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -104,6 +106,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -120,6 +123,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -146,6 +150,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -270,6 +275,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
