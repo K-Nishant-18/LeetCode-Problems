@@ -45,6 +45,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -215,6 +216,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -282,6 +284,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
 
 ---
