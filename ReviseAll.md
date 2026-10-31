@@ -22,7 +22,7 @@
 
 ![Notes](https://img.shields.io/badge/Revision%20notes-39-24292f?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-25-2ea043?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-d29922?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-cf222e?style=flat-square)
 
-<sub>Coverage: 39 of 68 solved problems have revision notes</sub>
+<sub>Coverage: 39 of 69 solved problems have revision notes</sub>
 
 `██████████████░░░░░░░░░░`&nbsp; **57%**
 
@@ -348,7 +348,7 @@ Each link opens that problem's revision notes.
 ## Still To Write
 
 <details>
-<summary>Problems without a Revision.md yet (29)</summary>
+<summary>Problems without a Revision.md yet (30)</summary>
 
 |   |   |   |
 |:---|:---|:---|
@@ -361,7 +361,7 @@ Each link opens that problem's revision notes.
 | [0584-find-customer-referee](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0584-find-customer-referee) | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries) | [0620-not-boring-movies](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1068-product-sales-analysis-i) | [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i) | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 | [1480-running-sum-of-1d-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array) | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) | [1683-invalid-tweets](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1683-invalid-tweets) |
-| [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) |   |
+| [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) | [2149-rearrange-array-elements-by-sign](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign) |
 
 </details>
 <!---Revision Notes End-->
