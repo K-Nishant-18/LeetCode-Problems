@@ -20,11 +20,11 @@
 
 <div align="center">
 
-![Notes](https://img.shields.io/badge/Revision%20notes-39-24292f?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-25-2ea043?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-14-d29922?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-cf222e?style=flat-square)
+![Notes](https://img.shields.io/badge/Revision%20notes-40-24292f?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-25-2ea043?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-15-d29922?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-cf222e?style=flat-square)
 
-<sub>Coverage: 39 of 69 solved problems have revision notes</sub>
+<sub>Coverage: 40 of 69 solved problems have revision notes</sub>
 
-`██████████████░░░░░░░░░░`&nbsp; **57%**
+`██████████████░░░░░░░░░░`&nbsp; **58%**
 
 </div>
 
@@ -70,6 +70,7 @@
 | 0746 | [Min Cost Climbing Stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` | [Open](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0746-min-cost-climbing-stairs/Revision.md) |
 | 0881 | [Boats to Save People](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people) | Medium | `Array` `Two Pointers` `Sorting` `Greedy` `+1` | [Open](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0881-boats-to-save-people/Revision.md) |
 | 1768 | [Merge Strings Alternately](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1768-merge-strings-alternately) | Easy | `Two Pointers` `String` | [Open](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/1768-merge-strings-alternately/Revision.md) |
+| 2149 | [Rearrange Array Elements by Sign](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign) | Medium | `Array` `Two Pointers` `Simulation` | [Open](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/2149-rearrange-array-elements-by-sign/Revision.md) |
 | 3174 | [Clear Digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits) | Easy | `String` `Stack` `Simulation` | [Open](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/3174-clear-digits/Revision.md) |
 
 <a id="browse-by-topic"></a>
@@ -78,7 +79,7 @@
 
 <div align="center">
 
-[Array](#topic-array)<sup>24</sup> &nbsp;·&nbsp; [Two Pointers](#topic-two-pointers)<sup>12</sup> &nbsp;·&nbsp; [Sorting](#topic-sorting)<sup>10</sup> &nbsp;·&nbsp; [Hash Table](#topic-hash-table)<sup>9</sup> &nbsp;·&nbsp; [Stack](#topic-stack)<sup>8</sup> &nbsp;·&nbsp; [String](#topic-string)<sup>7</sup> &nbsp;·&nbsp; [Linked List](#topic-linked-list)<sup>5</sup> &nbsp;·&nbsp; [Math](#topic-math)<sup>5</sup> &nbsp;·&nbsp; [Dynamic Programming](#topic-dynamic-programming)<sup>4</sup> &nbsp;·&nbsp; [Recursion](#topic-recursion)<sup>4</sup> &nbsp;·&nbsp; [Counting](#topic-counting)<sup>3</sup> &nbsp;·&nbsp; [Design](#topic-design)<sup>3</sup> &nbsp;·&nbsp; [Divide and Conquer](#topic-divide-and-conquer)<sup>3</sup> &nbsp;·&nbsp; [Binary Search](#topic-binary-search)<sup>2</sup> &nbsp;·&nbsp; [Boyer–Moore Majority Vote Algorithm](#topic-boyer-moore-majority-vote-algorithm)<sup>2</sup> &nbsp;·&nbsp; [Greedy](#topic-greedy)<sup>2</sup> &nbsp;·&nbsp; [Memoization](#topic-memoization)<sup>2</sup> &nbsp;·&nbsp; [Prefix Sum](#topic-prefix-sum)<sup>2</sup> &nbsp;·&nbsp; [Queue](#topic-queue)<sup>2</sup> &nbsp;·&nbsp; [Simulation](#topic-simulation)<sup>2</sup> &nbsp;·&nbsp; [Bit Manipulation](#topic-bit-manipulation)<sup>1</sup> &nbsp;·&nbsp; [Bracket Sequences](#topic-bracket-sequences)<sup>1</sup> &nbsp;·&nbsp; [Bubble Sort](#topic-bubble-sort)<sup>1</sup> &nbsp;·&nbsp; [Bucket Sort](#topic-bucket-sort)<sup>1</sup> &nbsp;·&nbsp; [Floyd's Cycle Finding Algorithm](#topic-floyd-s-cycle-finding-algorithm)<sup>1</sup> &nbsp;·&nbsp; [Heap (Priority Queue)](#topic-heap-priority-queue)<sup>1</sup> &nbsp;·&nbsp; [Monotonic Stack](#topic-monotonic-stack)<sup>1</sup> &nbsp;·&nbsp; [Quickselect](#topic-quickselect)<sup>1</sup> &nbsp;·&nbsp; [Quicksort](#topic-quicksort)<sup>1</sup> &nbsp;·&nbsp; [Timsort](#topic-timsort)<sup>1</sup> &nbsp;·&nbsp; [Trie](#topic-trie)<sup>1</sup>
+[Array](#topic-array)<sup>25</sup> &nbsp;·&nbsp; [Two Pointers](#topic-two-pointers)<sup>13</sup> &nbsp;·&nbsp; [Sorting](#topic-sorting)<sup>10</sup> &nbsp;·&nbsp; [Hash Table](#topic-hash-table)<sup>9</sup> &nbsp;·&nbsp; [Stack](#topic-stack)<sup>8</sup> &nbsp;·&nbsp; [String](#topic-string)<sup>7</sup> &nbsp;·&nbsp; [Linked List](#topic-linked-list)<sup>5</sup> &nbsp;·&nbsp; [Math](#topic-math)<sup>5</sup> &nbsp;·&nbsp; [Dynamic Programming](#topic-dynamic-programming)<sup>4</sup> &nbsp;·&nbsp; [Recursion](#topic-recursion)<sup>4</sup> &nbsp;·&nbsp; [Counting](#topic-counting)<sup>3</sup> &nbsp;·&nbsp; [Design](#topic-design)<sup>3</sup> &nbsp;·&nbsp; [Divide and Conquer](#topic-divide-and-conquer)<sup>3</sup> &nbsp;·&nbsp; [Simulation](#topic-simulation)<sup>3</sup> &nbsp;·&nbsp; [Binary Search](#topic-binary-search)<sup>2</sup> &nbsp;·&nbsp; [Boyer–Moore Majority Vote Algorithm](#topic-boyer-moore-majority-vote-algorithm)<sup>2</sup> &nbsp;·&nbsp; [Greedy](#topic-greedy)<sup>2</sup> &nbsp;·&nbsp; [Memoization](#topic-memoization)<sup>2</sup> &nbsp;·&nbsp; [Prefix Sum](#topic-prefix-sum)<sup>2</sup> &nbsp;·&nbsp; [Queue](#topic-queue)<sup>2</sup> &nbsp;·&nbsp; [Bit Manipulation](#topic-bit-manipulation)<sup>1</sup> &nbsp;·&nbsp; [Bracket Sequences](#topic-bracket-sequences)<sup>1</sup> &nbsp;·&nbsp; [Bubble Sort](#topic-bubble-sort)<sup>1</sup> &nbsp;·&nbsp; [Bucket Sort](#topic-bucket-sort)<sup>1</sup> &nbsp;·&nbsp; [Floyd's Cycle Finding Algorithm](#topic-floyd-s-cycle-finding-algorithm)<sup>1</sup> &nbsp;·&nbsp; [Heap (Priority Queue)](#topic-heap-priority-queue)<sup>1</sup> &nbsp;·&nbsp; [Monotonic Stack](#topic-monotonic-stack)<sup>1</sup> &nbsp;·&nbsp; [Quickselect](#topic-quickselect)<sup>1</sup> &nbsp;·&nbsp; [Quicksort](#topic-quicksort)<sup>1</sup> &nbsp;·&nbsp; [Timsort](#topic-timsort)<sup>1</sup> &nbsp;·&nbsp; [Trie](#topic-trie)<sup>1</sup>
 
 </div>
 
@@ -86,19 +87,19 @@ Each link opens that problem's revision notes.
 
 <a id="topic-array"></a>
 
-### Array <sup>24</sup>
+### Array <sup>25</sup>
 
 - **Easy** &nbsp;—&nbsp; [Longest Common Prefix](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0014-longest-common-prefix/Revision.md) &nbsp;·&nbsp; [Remove Duplicates from Sorted Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0026-remove-duplicates-from-sorted-array/Revision.md) &nbsp;·&nbsp; [Remove Element](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0027-remove-element/Revision.md) &nbsp;·&nbsp; [Merge Sorted Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0088-merge-sorted-array/Revision.md) &nbsp;·&nbsp; [Majority Element](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0169-majority-element/Revision.md) &nbsp;·&nbsp; [Contains Duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0217-contains-duplicate/Revision.md) &nbsp;·&nbsp; [Missing Number](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0268-missing-number/Revision.md) &nbsp;·&nbsp; [Move Zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0283-move-zeroes/Revision.md) &nbsp;·&nbsp; [Max Consecutive Ones](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0485-max-consecutive-ones/Revision.md) &nbsp;·&nbsp; [Baseball Game](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0682-baseball-game/Revision.md) &nbsp;·&nbsp; [Min Cost Climbing Stairs](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0746-min-cost-climbing-stairs/Revision.md)
-- **Medium** &nbsp;—&nbsp; [Container with Most Water](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0011-container-with-most-water/Revision.md) &nbsp;·&nbsp; [Group Anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0049-group-anagrams/Revision.md) &nbsp;·&nbsp; [Maximum Subarray](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0053-maximum-subarray/Revision.md) &nbsp;·&nbsp; [Sort Colors](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0075-sort-colors/Revision.md) &nbsp;·&nbsp; [Evaluate Reverse Polish Notation](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0150-evaluate-reverse-polish-notation/Revision.md) &nbsp;·&nbsp; [Two Sum II Input Array Is Sorted](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0167-two-sum-ii-input-array-is-sorted/Revision.md) &nbsp;·&nbsp; [Rotate Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0189-rotate-array/Revision.md) &nbsp;·&nbsp; [Majority Element II](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0229-majority-element-ii/Revision.md) &nbsp;·&nbsp; [Product of Array Except Self](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0238-product-of-array-except-self/Revision.md) &nbsp;·&nbsp; [Top K Frequent Elements](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0347-top-k-frequent-elements/Revision.md) &nbsp;·&nbsp; [Subarray Sum Equals K](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0560-subarray-sum-equals-k/Revision.md) &nbsp;·&nbsp; [Daily Temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0739-daily-temperatures/Revision.md) &nbsp;·&nbsp; [Boats to Save People](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0881-boats-to-save-people/Revision.md)
+- **Medium** &nbsp;—&nbsp; [Container with Most Water](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0011-container-with-most-water/Revision.md) &nbsp;·&nbsp; [Group Anagrams](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0049-group-anagrams/Revision.md) &nbsp;·&nbsp; [Maximum Subarray](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0053-maximum-subarray/Revision.md) &nbsp;·&nbsp; [Sort Colors](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0075-sort-colors/Revision.md) &nbsp;·&nbsp; [Evaluate Reverse Polish Notation](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0150-evaluate-reverse-polish-notation/Revision.md) &nbsp;·&nbsp; [Two Sum II Input Array Is Sorted](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0167-two-sum-ii-input-array-is-sorted/Revision.md) &nbsp;·&nbsp; [Rotate Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0189-rotate-array/Revision.md) &nbsp;·&nbsp; [Majority Element II](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0229-majority-element-ii/Revision.md) &nbsp;·&nbsp; [Product of Array Except Self](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0238-product-of-array-except-self/Revision.md) &nbsp;·&nbsp; [Top K Frequent Elements](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0347-top-k-frequent-elements/Revision.md) &nbsp;·&nbsp; [Subarray Sum Equals K](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0560-subarray-sum-equals-k/Revision.md) &nbsp;·&nbsp; [Daily Temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0739-daily-temperatures/Revision.md) &nbsp;·&nbsp; [Boats to Save People](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0881-boats-to-save-people/Revision.md) &nbsp;·&nbsp; [Rearrange Array Elements by Sign](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/2149-rearrange-array-elements-by-sign/Revision.md)
 
 <sub><a href="#browse-by-topic">Back to topics</a></sub>
 
 <a id="topic-two-pointers"></a>
 
-### Two Pointers <sup>12</sup>
+### Two Pointers <sup>13</sup>
 
 - **Easy** &nbsp;—&nbsp; [Remove Duplicates from Sorted Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0026-remove-duplicates-from-sorted-array/Revision.md) &nbsp;·&nbsp; [Remove Element](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0027-remove-element/Revision.md) &nbsp;·&nbsp; [Merge Sorted Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0088-merge-sorted-array/Revision.md) &nbsp;·&nbsp; [Valid Palindrome](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0125-valid-palindrome/Revision.md) &nbsp;·&nbsp; [Linked List Cycle](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0141-linked-list-cycle/Revision.md) &nbsp;·&nbsp; [Move Zeroes](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0283-move-zeroes/Revision.md) &nbsp;·&nbsp; [Merge Strings Alternately](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/1768-merge-strings-alternately/Revision.md)
-- **Medium** &nbsp;—&nbsp; [Container with Most Water](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0011-container-with-most-water/Revision.md) &nbsp;·&nbsp; [Sort Colors](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0075-sort-colors/Revision.md) &nbsp;·&nbsp; [Two Sum II Input Array Is Sorted](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0167-two-sum-ii-input-array-is-sorted/Revision.md) &nbsp;·&nbsp; [Rotate Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0189-rotate-array/Revision.md) &nbsp;·&nbsp; [Boats to Save People](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0881-boats-to-save-people/Revision.md)
+- **Medium** &nbsp;—&nbsp; [Container with Most Water](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0011-container-with-most-water/Revision.md) &nbsp;·&nbsp; [Sort Colors](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0075-sort-colors/Revision.md) &nbsp;·&nbsp; [Two Sum II Input Array Is Sorted](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0167-two-sum-ii-input-array-is-sorted/Revision.md) &nbsp;·&nbsp; [Rotate Array](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0189-rotate-array/Revision.md) &nbsp;·&nbsp; [Boats to Save People](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0881-boats-to-save-people/Revision.md) &nbsp;·&nbsp; [Rearrange Array Elements by Sign](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/2149-rearrange-array-elements-by-sign/Revision.md)
 
 <sub><a href="#browse-by-topic">Back to topics</a></sub>
 
@@ -199,6 +200,15 @@ Each link opens that problem's revision notes.
 
 <sub><a href="#browse-by-topic">Back to topics</a></sub>
 
+<a id="topic-simulation"></a>
+
+### Simulation <sup>3</sup>
+
+- **Easy** &nbsp;—&nbsp; [Baseball Game](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0682-baseball-game/Revision.md) &nbsp;·&nbsp; [Clear Digits](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/3174-clear-digits/Revision.md)
+- **Medium** &nbsp;—&nbsp; [Rearrange Array Elements by Sign](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/2149-rearrange-array-elements-by-sign/Revision.md)
+
+<sub><a href="#browse-by-topic">Back to topics</a></sub>
+
 <a id="topic-binary-search"></a>
 
 ### Binary Search <sup>2</sup>
@@ -246,14 +256,6 @@ Each link opens that problem's revision notes.
 ### Queue <sup>2</sup>
 
 - **Easy** &nbsp;—&nbsp; [Implement Stack Using Queues](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0225-implement-stack-using-queues/Revision.md) &nbsp;·&nbsp; [Implement Queue Using Stacks](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0232-implement-queue-using-stacks/Revision.md)
-
-<sub><a href="#browse-by-topic">Back to topics</a></sub>
-
-<a id="topic-simulation"></a>
-
-### Simulation <sup>2</sup>
-
-- **Easy** &nbsp;—&nbsp; [Baseball Game](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/0682-baseball-game/Revision.md) &nbsp;·&nbsp; [Clear Digits](https://github.com/K-Nishant-18/LeetCode-Problems/blob/main/3174-clear-digits/Revision.md)
 
 <sub><a href="#browse-by-topic">Back to topics</a></sub>
 
@@ -348,7 +350,7 @@ Each link opens that problem's revision notes.
 ## Still To Write
 
 <details>
-<summary>Problems without a Revision.md yet (30)</summary>
+<summary>Problems without a Revision.md yet (29)</summary>
 
 |   |   |   |
 |:---|:---|:---|
@@ -361,7 +363,7 @@ Each link opens that problem's revision notes.
 | [0584-find-customer-referee](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0584-find-customer-referee) | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries) | [0620-not-boring-movies](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1068-product-sales-analysis-i) | [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i) | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
 | [1480-running-sum-of-1d-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array) | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) | [1683-invalid-tweets](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1683-invalid-tweets) |
-| [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) | [2149-rearrange-array-elements-by-sign](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign) |
+| [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) |   |
 
 </details>
 <!---Revision Notes End-->
