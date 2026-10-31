@@ -49,6 +49,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0075-sort-colors](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
@@ -165,6 +166,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0053-maximum-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0509-fibonacci-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Stack
