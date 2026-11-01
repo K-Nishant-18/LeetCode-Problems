@@ -64,6 +64,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0485-max-consecutive-ones](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -130,6 +131,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
