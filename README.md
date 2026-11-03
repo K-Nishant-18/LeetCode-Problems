@@ -56,6 +56,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
@@ -159,6 +160,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0141-linked-list-cycle](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
@@ -300,6 +302,10 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
