@@ -66,6 +66,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -184,6 +185,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0225-implement-stack-using-queues](https://github.com/K-Nishant-18/DSA_Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [3174-clear-digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
@@ -227,6 +229,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3174-clear-digits](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/3174-clear-digits/) | Easy |
