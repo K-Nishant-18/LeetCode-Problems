@@ -7,29 +7,19 @@ class Solution {
 
         for(int i=0; i<asteroids.length; i++){
             boolean alive = true;
-            if(asteroids[i]<0 && !stack.isEmpty() && stack.peek()>0){
-                if(stack.peek() + asteroids[i]>0){
-                    continue;
-                }else if(stack.peek()+asteroids[i]<0){
-                    while(alive && !stack.isEmpty() && stack.peek() > 0 && asteroids[i] < 0){
-                        int top = stack.peek();
-                        int current = asteroids[i];
-                        if(top+current<0){
-                            stack.pop();
-                        }else if(top+current==0){
-                            stack.pop();
-                            alive=false;
-                        }else{
-                            alive=false;
-                        }
-                    }
-                    if(alive==true){
-                        stack.push(asteroids[i]);
-                    }
-                }else{
+            while(alive && !stack.isEmpty() && stack.peek() > 0 && asteroids[i] < 0){
+                int top = stack.peek();
+                int current = asteroids[i];
+                if(top+current<0){
                     stack.pop();
+                }else if(top+current==0){
+                    stack.pop();
+                    alive=false;
+                }else{
+                    alive=false;
                 }
-            }else{
+            }
+            if(alive==true){
                 stack.push(asteroids[i]);
             }
         }
