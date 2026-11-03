@@ -22,7 +22,7 @@
 
 ![Notes](https://img.shields.io/badge/Revision%20notes-46-24292f?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-29-2ea043?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-17-d29922?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-cf222e?style=flat-square)
 
-<sub>Coverage: 46 of 75 solved problems have revision notes</sub>
+<sub>Coverage: 46 of 76 solved problems have revision notes</sub>
 
 `███████████████░░░░░░░░░`&nbsp; **61%**
 
@@ -364,7 +364,7 @@ Each link opens that problem's revision notes.
 ## Still To Write
 
 <details>
-<summary>Problems without a Revision.md yet (29)</summary>
+<summary>Problems without a Revision.md yet (30)</summary>
 
 |   |   |   |
 |:---|:---|:---|
@@ -373,11 +373,11 @@ Each link opens that problem's revision notes.
 | [0042-trapping-rain-water](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0042-trapping-rain-water) | [0058-length-of-last-word](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0058-length-of-last-word) | [0061-rotate-list](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii) | [0136-single-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0136-single-number) | [0151-reverse-words-in-a-string](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string) |
 | [0152-maximum-product-subarray](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0152-maximum-product-subarray) | [0197-rising-temperature](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0197-rising-temperature) | [0202-happy-number](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0202-happy-number) |
-| [0237-delete-node-in-a-linked-list](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list) | [0344-reverse-string](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0344-reverse-string) | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays) |
-| [0584-find-customer-referee](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0584-find-customer-referee) | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries) | [0620-not-boring-movies](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0620-not-boring-movies) |
-| [1068-product-sales-analysis-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1068-product-sales-analysis-i) | [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i) | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier) |
-| [1480-running-sum-of-1d-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array) | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) | [1683-invalid-tweets](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1683-invalid-tweets) |
-| [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) |   |
+| [0219-contains-duplicate-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0219-contains-duplicate-ii) | [0237-delete-node-in-a-linked-list](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list) | [0344-reverse-string](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays) | [0584-find-customer-referee](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0584-find-customer-referee) | [0595-big-countries](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0620-not-boring-movies) | [1068-product-sales-analysis-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1068-product-sales-analysis-i) | [1148-article-views-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier) | [1480-running-sum-of-1d-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array) | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1683-invalid-tweets](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1683-invalid-tweets) | [1757-recyclable-and-low-fat-products](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products) | [1929-concatenation-of-array](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/1929-concatenation-of-array) |
 
 </details>
 <!---Revision Notes End-->
