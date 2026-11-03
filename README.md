@@ -65,6 +65,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | [0349-intersection-of-two-arrays](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
@@ -306,6 +307,7 @@ This repository is my personal log of solved **LeetCode** problems — organized
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/K-Nishant-18/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
 
 ---
